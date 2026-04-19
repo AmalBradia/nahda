@@ -1,2 +1,0 @@
-# bradia
-association Amale
